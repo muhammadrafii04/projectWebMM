@@ -7,12 +7,6 @@
     <title>Home</title>
 
     <style>
-      /* .container{
-        padding: 30px ;
-        text-align: center;
-        background:skyblue;
-        
-      } */
       main{
         padding: 30px ;
         text-align: center;
@@ -39,13 +33,8 @@
     <div class="navbar-brand"><h1>Video and Music List</h1></div>
   </nav>
   <main>
-    <!-- <div class="container"> -->
-      
-          <!-- <h1></h1>
-          <br> -->
-      <!-- <div class="row"> -->
         <div class="card-deck">
-          <a href="video.html">
+          <a href="video.php">
           <div class="card">
             <img src="vid.png" height="300px">
               <div class="card-body">
@@ -55,7 +44,7 @@
             </div>
           </a>
 
-          <a href="lagu.html">
+          <a href="lagu.php">
             <div class="card">
               <img src="music.png" height="300px">
                 <div class="card-body">
@@ -65,8 +54,6 @@
             </div>
           </a>
           </div>
-      <!-- </div> -->
-    <!-- </div> -->
     
     <h3>All rights to clips and music belong to their respective owners.</h3>
   </main>
